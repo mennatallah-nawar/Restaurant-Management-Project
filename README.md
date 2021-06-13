@@ -1,5 +1,7 @@
 # Restaurant-Management-Simulation
 Simulation program that simulates the Restaurant kitchen system and calculates some statistics that measure average customer satisfaction.<br>
+![](https://github.com/mennatallah-nawar/Restaurant-Management-Simulation/blob/master/UI.png)
+
 *Sample of input file:
 ![](https://github.com/mennatallah-nawar/Restaurant-Management-Simulation/blob/master/Input%20file%20format.png)
 *The Output File Format
